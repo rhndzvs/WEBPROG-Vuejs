@@ -1,0 +1,35 @@
+<template>
+    <header>
+        <h1>Welcome to My Personal Website!</h1>
+        <nav>
+          <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About Me</a></li>
+            <li><a href="#picture-gallery">Picture Gallery</a></li>
+            <li><a href="#resources">Resources</a></li>
+          </ul>
+        </nav>
+      </header>
+    
+      <main>
+        <section id="home" class="center-content">
+          <img src="https://github.com/rhndzvs/WEBPROG-Personal-Website/blob/feature/2_RZB_customize_my_website/home/pictures/FORMAL%20PICTURE.jpg?raw=true" alt="Profile Picture" class="profile-pic">
+          <h2>Hi! I am Rhundei Zen Ballesteros</h2>
+          <p>IT Student</p>
+          <button onclick="clickMe()">Click Me</button>
+        </section>
+    
+        <div class="social-links">
+          <a href="#"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Facebook-512.png" alt="Facebook"></a>
+          <a href="#"><img src="https://img.freepik.com/free-vector/instagram-logo_1199-122.jpg?semt=ais_hybrid" alt="Instagram"></a>
+          <a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" alt="LinkedIn"></a>
+        </div>
+      </main>
+    
+      <footer>
+        <p class="footer-text">© 2024 Rhundei Zen Ballesteros</p>
+      </footer>
+</template>
+
+<script></script>
+<style></style>
