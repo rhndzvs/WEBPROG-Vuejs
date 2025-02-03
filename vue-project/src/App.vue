@@ -5,7 +5,7 @@
   <food-item/>
   <food-item/> <br>
   <personal-profile/> <br>
-  <comment-form/>
+  <comment-form/> <br>
   <comment/>
 </template>
 

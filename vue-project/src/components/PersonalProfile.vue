@@ -13,7 +13,7 @@
     
       <main>
         <section id="home" class="center-content">
-          <img src="https://github.com/rhndzvs/WEBPROG-Personal-Website/blob/feature/2_RZB_customize_my_website/home/pictures/FORMAL%20PICTURE.jpg?raw=true" alt="Profile Picture" class="profile-pic">
+          <img src="https://github.com/rhndzvs/WEBPROG-Personal-Website/blob/feature/2_RZB_customize_my_website/home/pictures/Formal%20Picture.jpg?raw=true" alt="Profile Picture" class="profile-pic">
           <h2>Hi! I am Rhundei Zen R. Ballesteros</h2>
           <p>IT Student</p>
           <button onclick="clickMe()">Click Me</button>
