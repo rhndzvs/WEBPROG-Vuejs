@@ -1,6 +1,6 @@
 <template>
     <div>
-      <h2>Leave a Comment!</h2>
+      <h2>Leave a Comment</h2>
       <form @submit.prevent="submitComment">
         <div class="form-group">
           <label for="name">Name:</label>
